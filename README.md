@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lonewolf-Joy22
-- 👀 I’m interested in AI, Machine Learning and Block-Chain
+- 👀 I’m interested in Data Science, AI, Machine Learning and Block-Chain
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on application based Block-Chain technology
 - 📫 How to reach me 
